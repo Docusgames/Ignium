@@ -1,4 +1,7 @@
-Ignium
+You found us!
+==============
+
+What is Ignium?
 ======
 
-Our RPG
+Ignium is our first *ambitious* game - an open-world RPG.
