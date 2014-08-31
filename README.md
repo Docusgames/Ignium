@@ -6,4 +6,4 @@ You have stumbled across Ignium's Github repository. We deeply recommend you rea
 What is Ignium?
 ======
 
-Ignium is our first *ambitious* game - an open-world RPG.
+Ignium is our first *ambitious* game - an open-world RPG.. yay
